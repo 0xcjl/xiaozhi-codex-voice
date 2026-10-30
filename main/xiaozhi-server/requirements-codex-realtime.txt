@@ -1,6 +1,6 @@
 # Optional isolated development environment for the experimental realtime path.
 # aiortc 1.15.0 requires av >=14,<18; use binary wheels only when installing.
 aiortc==1.15.0
-av==17.1.0
+av==19.0.2
 opuslib-next==1.3.1
 websockets==14.2
